@@ -13,5 +13,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+<<<<<<< HEAD
 
 .DS_Store
+=======
+>>>>>>> d9f80797a622c54e0d1416d0afe9874a6808c163
